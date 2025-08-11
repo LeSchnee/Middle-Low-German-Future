@@ -1,7 +1,9 @@
 # Middle Low German Future
 
-Dieses Repositorium enthält die verwendeten Daten und Skripte für den Aufsatz "Ihden, Sarah / Schnee, Lena (i. E.): Expressing future reference in Middle Low German. In: Hartmann, Stefan / Schnee, Lena (eds.): Futures of the Past: The diachrony of future constructions across language. Berlin: Language Science Press (Advances in Historical Linguistics)." 
+Der komprimierte Ordner enthält die verwendeten Daten und Skripte für den Aufsatz 
 
+- Ihden, Sarah / Schnee, Lena (i. E.): Expressing future reference in Middle Low German. In: Hartmann, Stefan / Schnee, Lena (eds.): Futures of the Past: The diachrony of future constructions across language. Berlin: Language Science Press (Advances in Historical Linguistics).
+        
 Die Daten zu den qualitativen und der quantitativen Analyse (Abschnitt 4.1 bzw. 4.2) liegen jeweils in den Ordnern "qualitativ" bzw. quantitativ. Alle verwendeten Skripte liegen im Ordner "Skripte". Damit letztere auf die Daten zugreifen können, muss die Ordnerstruktur beibehalten werden.
 
 ## Qualitative Analysen (Abschnitt 4.2)
